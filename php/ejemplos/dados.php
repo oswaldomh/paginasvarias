@@ -1,11 +1,11 @@
 <?php
 
-$uno = rand(1,6)
-$dos = rand(1,6)
-$tres = rand(1,6)
-$cuatro = rand(1,6)
-$cinco = rand(1,6)
-$seis = rand(1,6)
+$uno = rand(1,6);
+$dos = rand(1,6);
+$tres = rand(1,6);
+$cuatro = rand(1,6);
+$cinco = rand(1,6);
+$seis = rand(1,6);
 
 $dados = array
 	(
