@@ -2,7 +2,7 @@
 $mensaje = "Imprime lo que sea";
 echo $mensaje;
 echo "<br>";
-$sindatos = "ahora si tengo datos";
+$sindatos = "ahora sihola tengo datos";
 echo $sindatos;
 $uno = "dos";
 echo $uno;
