@@ -1,7 +1,7 @@
 <?php
 
 //"<form action="/action_page.php">
-//<div class="form-group">
+//<div clholaass="form-group">
 //  <label for="cafe">Algo sobre cafe:</label>
 //  <input type="cafe" class="form-control" id="cafe">
 //</div>

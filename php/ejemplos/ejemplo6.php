@@ -5,7 +5,7 @@ $nombre = "Emmanuel";
 echo "Bienvenido ". $nombre. " a la oficina";
 echo "<br>";
 $nombre = "Pedro";
-echo "Bienvenido ".$nombre." a la oficina";
+echo "Bienvenido ".$nombre." a la oholaficina";
 
 
 
