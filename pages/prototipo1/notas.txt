@@ -96,3 +96,16 @@ $txd =
 for($i = 0; $i < $txd; ++$i) {
    $uno ($txd)= (rand(1,6)); 
 }
+
+
+
+
+
+
+
+
+
+<!-- Scrollable modal -->
+<div class="modal-dialog modal-dialog-scrollable">
+  ...
+</div>

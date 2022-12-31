@@ -1,0 +1,4 @@
+Ruta para docker:
+/Documents/Docker1/docker-php-mysql/www/prueba1-main/proyecto1/ejemplos/prototipo1
+Ruta para git:
+/Documents/git2/paginasvarias/pages/prototipo1

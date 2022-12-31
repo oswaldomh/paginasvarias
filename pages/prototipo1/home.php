@@ -63,14 +63,14 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>                        
       </button>
-      <a class="navbar-brand" href="#"><img src="multimedia/logo.png" alt="Image" width="28" height="28"></a>
+      <a class="navbar-brand" href="#"><img src="multimedia/logoreal.png" alt="Image" width="28" height="28"></a>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="#">Hola</a></li>
+        <li class="active"><a href="home.php">Hola</a></li>
         <li><a href="#">Sobre Nosotros</a></li>
         <li><a href="#">Ubicaciones</a></li>
-        <li><a href="#">Contacto</a></li>
+        <li><a href=" ./mesas.php">Cobro</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
@@ -148,10 +148,12 @@
 </div><br>
 
 <footer class="container-fluid text-center">
-  <pre>           Uma xícara de café
+  <pre>           
+                  Uma xícara de café
             Para ficar acordado e estudar
                   Café com um bom
-            Para ter um dia bem sucedido.</pre>
+            Para ter um dia bem sucedido.
+  </pre>
 </footer>
 
 </body>
@@ -198,4 +200,3 @@
     <a href="multimedia/imagencafe0.jpg">Esta es la url del Sifon Japones</a><br>
 </body>
 </html>
-
