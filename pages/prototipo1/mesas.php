@@ -1,3 +1,12 @@
+<?php
+$caja =
+$folio = (database)
+
+
+?>
+
+
+
 <!DOCTYPE html>
 <html>
 <head><title>Control de mesas :)</title>
@@ -20,7 +29,7 @@
   
   </style>
 </head>
-<body>
+<body style="background-color: rgb(52,52,59)" >
 <nav class="navbar navbar-inverse">
   <div class="container-fluid">
     <div class="navbar-header">
@@ -65,7 +74,7 @@
   </div>
 </div>
 <br>
-<hr>
+<br>
 
 
 <div class="btn-group">
@@ -91,7 +100,7 @@
   </div>
 </div>
 <br>
-<hr>
+<br>
 
 <div class="btn-group">
   <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#cobro1">
@@ -104,7 +113,7 @@
   </div>
 </div>
 <br>
-<hr>
+<br>
 
 <div class="btn-group">
   <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#cobro1">
@@ -121,7 +130,7 @@
   </div>
 </div>
 <br>
-<hr>
+<br>
 
 <!-- The Modal -->
 <div class="modal" id="cobro1">

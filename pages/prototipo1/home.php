@@ -51,7 +51,12 @@
       display: none; 
     }
   }
+  .cajas-texto{
+    background-color: rgb(52,64,34)
+  }
+
   </style>
+  <p id= "atributos.js"></p>
 </head>
 <body>
 
@@ -137,12 +142,18 @@
         admirable bebida. class="img-responsive</p></p>    
     </div>
     <div class="col-sm-4">
+      
       <div class="well">
-       <p>Caja de comentarios</p>
+        <div class="cajas-texto">
+        <textarea title="Caja de comentarios" ;name="Ingrese comentario" id="comment" cols="30" rows="5">Ingrese comentario</textarea>
+        </div>
       </div>
       <div class="well">
-       <p>Ingresa para facturar</p>
+        <div class="cajas-texto">
+        <textarea title="Caja de facturacion"; name="Ingrese folio para facturar" id="foliofactura" cols="30" rows="5">Ingrese folio para facturar</textarea>
+        </div>
       </div>
+      
     </div>
   </div>
 </div><br>
@@ -197,6 +208,11 @@
     <p style="text-align:center">   
     <img src="multimedia/imagencafe0.jpg" alt="sifon_japones" width="888" height="888"></p> 
     <hr>
-    <a href="multimedia/imagencafe0.jpg">Esta es la url del Sifon Japones</a><br>
-</body>
+    <a href="multimedia/imagencafe0.jpg" target="_blank";>Esta es la url del Sifon Japones</a><br>
+    <script>
+      <button type="button" on click="getElementById(atrubutos.js)=1*2">Botn</button>
+    </script>
+
+  </body>
+
 </html>
